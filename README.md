@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Shutoparu
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning Java and version control via git
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: instagram @shuto_paru
+Just your normal anime weeb :)
 
 <!---
 Shutoparu/Shutoparu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
